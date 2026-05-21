@@ -12,10 +12,10 @@ Currently studying Computer Science, I am consolidating skills related to the fu
 <h2>Hard Skills 🛠️</h2>
 
 <h3><strong>Backend</strong></h3>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" height="25" width="90"> <br>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring" height="25" width="90"></img> <br>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="Postgresql" height="25" width="90"> <br>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="Mongo DB" height="25" width="90"> <br>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" height="25" width="90">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring" height="25" width="90"></img>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="Postgresql" height="25" width="90">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="Mongo DB" height="25" width="90">
 
 <h3><strong>Devops & Tools</strong></h3>
 <img src="https://img.shields.io/badge/Git-F03C2E.svg?style=for-the-badge&logo=Git&logoColor=white" alt="Git" height="30" width="90">

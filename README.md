@@ -3,7 +3,7 @@
 💻 Backend Developer <br>
 📘 Computer Science Student
 
-<h2>About me...</h2>
+<h2 style="text-align: center;">About me...</h2>
 
 <p>Technology professional in training, focused on Back-End development.
 
